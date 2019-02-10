@@ -18,7 +18,7 @@ In the beginning there should be a branch for every single case.
 
 This is a list of ideas ... 
 
-* simple lambda (incl. log group)
+* `01_lambda` simple lambda (incl. log group)
 * ...
 
 ## misc
