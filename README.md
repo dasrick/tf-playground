@@ -4,7 +4,7 @@
 
 # tf-playground
 
-> infrastructure based on terraform ...
+>  AWS infrastructure based on terraform ...
 
 ... 
 
@@ -20,5 +20,22 @@ This is a list of ideas ...
 
 * simple lambda (incl. log group)
 * ...
+
+## misc
+
+### AWS
+
+> Amazon Web Services (AWS) is a subsidiary of Amazon that provides
+> on-demand cloud computing platforms to individuals, companies and
+> governments, on a paid subscription basis...
+
+[AWS](https://aws.amazon.com/)
+
+### Terraform
+
+>  Terraform enables you to safely and predictably create, change, and
+>  improve infrastructure. It is an open source tool that codifies APIs...
+
+[Terraform by HashiCorp](https://www.terraform.io/)
 
 ***
