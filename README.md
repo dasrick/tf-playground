@@ -1,3 +1,7 @@
+[![pipeline status](https://gitlab.com/tox-aws-terraform/tf-playground/badges/master/pipeline.svg)](https://gitlab.com/tox-aws-terraform/tf-playground/commits/master)
+
+***
+
 # tf-playground
 
 > infrastructure based on terraform ...
@@ -16,3 +20,5 @@ This is a list of ideas ...
 
 * simple lambda (incl. log group)
 * ...
+
+***
