@@ -6,7 +6,7 @@
 
 ## about
 
-playground to test some cases of aws infrastructure setups.
+... playground to test some cases of aws infrastructure setups.
 
 In the beginning there should be a branch for every single case.
 
@@ -14,4 +14,5 @@ In the beginning there should be a branch for every single case.
 
 This is a list of ideas ... 
 
+* simple lambda (incl. log group)
 * ...
