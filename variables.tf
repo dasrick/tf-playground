@@ -49,7 +49,7 @@ locals {
 variable "golang_playground_path" {
   description = "Path of lambdas of playground based on golang"
   type        = "string"
-  default     = "playground/golang-playground/"
+  default     = "golang-playground/"
 }
 
 variable "golang_playground_version" {
